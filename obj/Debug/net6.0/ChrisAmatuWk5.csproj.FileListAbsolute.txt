@@ -1,0 +1,14 @@
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\bin\Debug\net6.0\ChrisAmatuWk5.exe
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\bin\Debug\net6.0\ChrisAmatuWk5.deps.json
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\bin\Debug\net6.0\ChrisAmatuWk5.runtimeconfig.json
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\bin\Debug\net6.0\ChrisAmatuWk5.dll
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\bin\Debug\net6.0\ChrisAmatuWk5.pdb
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ChrisAmatuWk5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ChrisAmatuWk5.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ChrisAmatuWk5.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ChrisAmatuWk5.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ChrisAmatuWk5.dll
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\refint\ChrisAmatuWk5.dll
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ChrisAmatuWk5.pdb
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ChrisAmatuWk5.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\ChrisAmatuWk5\obj\Debug\net6.0\ref\ChrisAmatuWk5.dll
